@@ -7,7 +7,7 @@
 
 ## 배포주소
 
-📍 <a href="emotionaldiary.vercel.app" target="_blank">emotionaldiary.vercel.app</a>
+📍 <a href="https://emotionaldiary.vercel.app" target="_blank">https://emotionaldiary.vercel.app</a>
 
 <br />
 <br />
